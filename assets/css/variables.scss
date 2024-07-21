@@ -1,7 +1,11 @@
 /* COLOR VARIABLES */
-$background: mix($accent, #1D1E28, 2%);
-$color: white;
-$border-color: rgba(255, 255, 255, .1);
+$background: #181818; 
+/* mix($accent, #1D1E28, 2%);*/
+$color: #949494; 
+/* white; */
+
+$border-color: #979797;
+/* rgba(255, 255, 255, .1); */
 
 /* MEDIA QUERIES */
 $phone: "max-width: 684px";
